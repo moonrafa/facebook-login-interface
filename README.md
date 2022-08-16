@@ -6,10 +6,6 @@
 
 <img src="assets/demo-desktop.png">
 
-- Mobile
-
-<img src="assets/demo-mobile.png">
-
 ## Tools
 
 - HTML
